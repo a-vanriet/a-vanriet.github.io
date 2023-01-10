@@ -1,13 +1,14 @@
 ---
 title: "About Me"
-weight: 3
+weight: 1
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-##### Professionel Experience
+I am a researcher working at the interface between **quantum information**, **quantum foundations**, and **quantum computing**.
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
+I study subjects such as causality in quantum theory, indefinite causal order, and higher-order quantum theory.
+I focus on the design of conceptual and mathematical frameworks to describe, manipulate and understand these ideas.
+I try to figure out what they can teach us both from a foundational and an applied perspective.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+I am currently an Inria postdoc in the [Quacs group](https://www.inria.fr/en/quacs) in Saclay, France.
