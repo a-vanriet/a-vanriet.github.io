@@ -425,15 +425,9 @@ li {
   margin-left: 30px;
 }
 
-
 ul li {
   list-style-type: none;
 }
-
-ol li {
-  margin-bottom: 10px;
-}
-
 
 .bult {
   display: inline;
@@ -528,7 +522,6 @@ ol li {
 }
 .post-holder.odd {
   background: #b80135;
-  /*background: #0c821f;*/
   color: white;
 }
 
